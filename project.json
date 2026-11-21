@@ -1,0 +1,14 @@
+{
+  "id": 10,
+  "title": "Plant Treatment Comparison",
+  "question": "How does dry plant weight differ across treatment groups?",
+  "x": "group",
+  "y": "weight",
+  "mode": "group",
+  "caveat": "Only ten observations per group; sample mean rankings can be unstable.",
+  "action": "Repeat the experiment with a preregistered design.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/PlantGrowth.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html",
+  "metric_label": "mean weight",
+  "method": "Complete-case descriptive comparison of weight by group; show group counts, mean, minimum and maximum."
+}

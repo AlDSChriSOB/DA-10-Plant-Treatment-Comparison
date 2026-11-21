@@ -1,0 +1,4 @@
+segment,rows_used,metric,minimum,maximum
+ctrl,10,5.032,4.17,6.11
+trt1,10,4.661,3.59,6.03
+trt2,10,5.526,4.92,6.31
